@@ -6,6 +6,7 @@ fields:
 - type: text
   label: Title
   name: title
+  hidden: true
 - type: text
   name: layout
   label: Layout
@@ -14,6 +15,7 @@ fields:
 - type: datetime
   name: date
   label: Date
+  hidden: true
 - type: blocks
   name: page_sections
   label: Page Sections
