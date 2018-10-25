@@ -8,9 +8,6 @@ fields:
   label: block
   name: block
   default: hero-2
-- type: file
-  name: background_image
-  label: Background Image
 - type: field_group
   name: image
   label: Image
@@ -28,6 +25,9 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- type: file
+  name: background_image
+  label: Background Image
 - type: textarea
   name: content
   label: Content
