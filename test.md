@@ -21,8 +21,8 @@ page_sections:
     button_text: Download
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/06/21/drone-photo.jpeg"
-  caption: All Available Blocks
+  image: "/uploads/2018/10/31/img-6-1.jpg"
+  caption: 'A nice building '
 - template: 1-column-text
   block: one-column-1
   headline: Features
