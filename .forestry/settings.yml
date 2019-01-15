@@ -8,7 +8,7 @@ sections:
   path: index.md
   label: Home
 - type: document
-  path: test.md
+  path: features.md
   label: Features
 upload_dir: uploads
 public_path: "/uploads"
