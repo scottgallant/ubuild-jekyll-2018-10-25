@@ -13,3 +13,7 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- type: boolean
+  label: On/off
+  name: on_off
+  description: This turns things on or off
