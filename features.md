@@ -19,10 +19,6 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/10/31/img-6-1.jpg"
-  caption: 'A nice building '
 - template: 1-column-text
   block: one-column-1
   headline: Features
